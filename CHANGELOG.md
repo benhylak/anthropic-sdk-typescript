@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.26.1 (2024-08-14)
+
+Full Changelog: [sdk-v0.26.0...sdk-v0.26.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.26.0...sdk-v0.26.1)
+
+### Chores
+
+* **docs/api:** update prompt caching helpers ([04195a3](https://github.com/anthropics/anthropic-sdk-typescript/commit/04195a345d62c98f826e5eecdad20f497db5b3e5))
+
 ## 0.26.0 (2024-08-14)
 
 Full Changelog: [sdk-v0.25.2...sdk-v0.26.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.25.2...sdk-v0.26.0)
